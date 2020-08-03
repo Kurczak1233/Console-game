@@ -1,0 +1,29 @@
+You gained some experience in fighting.
+You also gained some more strength.
+But you don't want to rob people anymore.
+As you were looking for new job, some man recognised you.
+
+"IT WAS YOU! You stealed my goods last night!"
+You replied that you actually looking for a job, and you don't know what happened yesterday.
+"I'm sure that was YOU! You will pay for it, GUARDS!"
+*Two people came to you*
+Two guards are looking on you, and also recognised you.
+"Now you will have to pay for your sins" they said.
+They arrest you.
+
+At the barracks you talk with officer.
+"Ah, it's you who robbed farmers convey last night. very nice"
+You look confused.
+"You have two paths right now."
+"You are fighting with us, or against us pick one"
+As you don't feel going to jail you pick to work with him.
+"Excellent, you are starting from tommorow... or even from now on!"
+
+You will be able to work for him as a guard.
+
+Conditions:
+You will be paid 11 gold per working day (15 energy)
+You have to work on purpose by choosing option here.
+If you worked, your not-working day counter will be reset.
+If counter will go to 4 you will lose your job.  
+Your work qualifications will improve after 5 weeks.

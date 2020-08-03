@@ -1,0 +1,15 @@
+After a few moments you are approaching some man and asking about a job.
+He isn't really exited to help you, but he reffers you to a nearby farm.
+There you aren't well treated as well, but the farmer makes you an offer.
+
+You will be able to work for him as a swineherd.
+The farmer says: "The work isn't very hard... you just have to give my pigs some food, and that's all."
+"I hope this is activity doesn't overwhelm you."
+"You will have to come to me once a week, that's for sure enough."
+
+Conditions:
+You will be paid 5 gold per working day (15 energy)
+You have to work on purpose by choosing option here.
+If you worked, your not-working day counter will be reset.
+If counter will go to 7 you will lose your job.  
+Your work qualifications will improve after 2 weeks.

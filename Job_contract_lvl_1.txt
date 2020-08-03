@@ -1,0 +1,22 @@
+After a few moments you are approaching some man and asking about a job.
+He has seen you lately and with some troubles he recognised you.
+"It's you! So you are this man who was working with my cousine?"
+"He told me some good things about you!"
+"So you are looking for a job? There is actually one job you might be useful."
+*The stranger is pointing his finger on city's walls.*
+So ... there you are. 
+*On the walls you can clearly see some holes and unstable set of stones*
+"You can help them repairing it."
+
+You will be able to work for him as a builder.
+The construction site supervisor wants to see you regularly.
+The city is susceptible of enemy attacks without solid walls.
+"You will have to come to me at least every 6 days if you want to work for me."
+"That's for sure enough for unskilled worker as you."
+
+Conditions:
+You will be paid 7 gold per working day (15 energy)
+You have to work on purpose by choosing option here.
+If you worked, your not-working day counter will be reset.
+If counter will go to 6 you will lose your job.  
+Your work qualifications will improve after 3 weeks.

@@ -1,0 +1,30 @@
+You are looking on nearby information board.
+There are few advertisements. Among them you see one specific, it is a torn page.
+It says that if you look for a well paid job you should visit tavern today at 9:00 p.m.
+As an daring adventurer you are going to visit it.
+
+At the tavern you are looking for somebody who could give you more infomations.
+There is only barman who is pollering his glasses.
+You ask him if he has anything interesting to say about it, but he refuses to tell you anything.
+Under those circumstances you decide to spend some time in this tavern
+You buy beer and going to drink it alone.
+
+After a while somebody is tickling your back.
+"Hey, do you looking for something?"
+You are nodding your head.
+"Well... there is something that will interest you"
+You are turning your head and see really well suited man.
+He has only one eye and a lot of scars.
+From now on... you will be a bandit.
+
+You will be able to work for this man as a bandit.
+As a part of a bigger group you will be robbing convoys.
+"You will have to come to me at least every 5 days if you want some gold."
+"I hope you have some power in your hands!"
+
+Conditions:
+You will be paid 9 gold per working day (15 energy)
+You have to work on purpose by choosing option here.
+If you worked, your not-working day counter will be reset.
+If counter will go to 5 you will lose your job.  
+Your work qualifications will improve after 4 weeks.
