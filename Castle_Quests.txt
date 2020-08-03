@@ -1,0 +1,9 @@
+Welcome to our castle: 
+Current status: Hostile/Neutral/Friendly/Yours
+- - - - -
+What would you like to do?
+1. Work
+2. Buy goods
+3. Recruit
+4. Conguer
+5. Sleep

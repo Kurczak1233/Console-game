@@ -1,0 +1,9 @@
+Welcome to our city: 
+Current status: Hostile/Neutral/Friendly/Yours
+- - - - -
+What would you like to do?
+1. Work
+2. Sell goods
+3. Sleep
+4. Conquer
+5. Exit
